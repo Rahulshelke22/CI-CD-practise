@@ -9,6 +9,7 @@ test('has title', async ({ page }) => {
 //  const watchsuggetions= page.locator('ul>li.Swx5kP')
 //  const Count=await watchsuggetions.count()
 //  console.log("count is:",Count)
+//cnsole
 
 
 });
